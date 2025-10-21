@@ -8,7 +8,7 @@ you need to have python and after that go to open cmd!
 
 Then in cmd put this command there.
 
-'''pip install zipfile
+```pip install zipfile```
 
 then another command.
 
