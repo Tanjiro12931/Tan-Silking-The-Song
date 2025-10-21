@@ -1,8 +1,26 @@
 Hey guys this is a project that changes your original silksong to modded one ith the correct version of bepinex5 AUTOMATICALLY.
 
 BEFORE ATTEMPTING ANYTHING BELOW MAKE SURE TO CONFIRM YOU HAVE THE PYTHON VERSION ABOVE 3.6.1
+----------------------------------------------------------
+IF YOUR EXE FILE DOESNT RUN FOLLOW THE STEPS BELOW!.
 
-there's gonna be a exe file very soon.
+you need to have python and after that go to open cmd!
+
+Then in cmd put this command there.
+
+pip install zipfile
+
+then another command.
+
+pip install requests
+
+then another command.
+
+pip install PyQt6
+
+--------------------------------------------------------------
+
+**EVERYTHING BELOW THIS IS INSTALLATION STEPS WITHOUT EXE!**
 
 So download this file first what you need to do is run this command.
 
